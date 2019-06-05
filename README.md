@@ -2,7 +2,7 @@
 存放所有的数据
 ## 网址导航
 [百度](https://www.baidu.com/)
-[必应](https://cn.bing.com/）
+[必应](https://cn.bing.com/)
 
 [谷歌](https://www.google.com)
 [谷歌翻译](https://translate.google.cn/)
