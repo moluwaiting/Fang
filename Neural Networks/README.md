@@ -13,3 +13,12 @@
 - [卷积和池化（pooling）](https://blog.csdn.net/qq_40525008/article/details/79964306):
 ![卷积](http://ufldl.stanford.edu/wiki/images/6/6c/Convolution_schematic.gif)
 - [VGG](https://baike.baidu.com/item/VGG%20%E6%A8%A1%E5%9E%8B/22689655?fr=aladdin):
+- 损失函数
+- 均方误差
+- 交叉熵误差
+- 梯度下降
+- 偏置和激励函数
+- 反向传播
+## 梯度下降方法
+- SGD
+- Mumenton
