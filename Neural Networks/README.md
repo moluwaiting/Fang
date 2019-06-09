@@ -30,7 +30,7 @@
 - [一文读懂Faster-RCNN](https://zhuanlan.zhihu.com/p/31426458)
 - [Faster-RCNN  B站](https://www.bilibili.com/video/av52033795?t=1432&p=3)
 - [莫烦B站](https://www.bilibili.com/video/av16001891?t=612&p=22)
-- [Tensorflow object detection API 打造属于自己的物体检测模型](https://www.bilibili.com/video/av21539370?from=search&seid=17494861082138280196)
+- [Tensorflow object detection API 打造属于自己的物体检测模型-视频教程](https://www.bilibili.com/video/av21539370?from=search&seid=17494861082138280196)
 ## 术语
 - softmax:概率学中的归一化函数，可以计算每个推荐具体属于哪个类别，输出为cls_prob分类预测的概率向量（0-1.0之间）
 - 全连接层（fully connected layers，FC）：分类器的作用。
