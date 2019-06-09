@@ -1,5 +1,6 @@
 ## 神经网络
 ### za7za8
+- [Ubuntu中Object_detection的安装方法](https://blog.csdn.net/chenmaolin88/article/details/79371891)
 - Object_detection_tutorial.ipynb　注意事项：
 
 1.sys.path.append('/home/fang/soft/Anaconda3-5.2.0-Linux-x86_64.sh/envs/tensorflow/models/research/')
