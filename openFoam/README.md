@@ -1,2 +1,10 @@
 # 网址导航
 - [一起学OpenFoam](https://www.cnblogs.com/LSCAX/p/6241951.html)
+- [OpenFoam编程指南](https://www.jianguoyun.com/p/DeZ17XoQ9s3ZBhij_kk)
+- [OpenFoam-Github官方库](https://github.com/OpenFOAM)
+- [OpenFoam编程入门](http://dyfluid.com/docs/book/_book/)
+- [OpenFOAM 5.0安装说明](http://scc.ustc.edu.cn/zlsc/jsrj/201804/t20180403_291853.html)
+- [使用OpenFOAM的基本流程](https://blog.csdn.net/u014470513/article/details/25041893)
+- [东岳流体](http://www.dyfluid.com/)
+- [Ubuntu下OpenFOAM-5.x编译安装指南](https://blog.csdn.net/bfadlzt/article/details/80396670)
+- [OpenFoam官方教程](https://cfd.direct/openfoam/user-guide/)
