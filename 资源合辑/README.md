@@ -1,1 +1,12 @@
-
+# 各种资源网址导航
+- [在线抠图](https://www.gaoding.com/koutu)
+- [有趣涨姿势的冷门网站专帖-虫部落](https://www.chongbuluo.com/thread-750-1-1.html)
+- [PDF密码破解](https://smallpdf.com/cn/unlock-pdf)
+- [谷多多电脑软件](http://www.coodoor.com/sort/pcsoftware)
+- [虫部落](https://www.chongbuluo.com/)
+- [office官方模板](http://officeplus.chinacloudsites.cn/Template/Home.shtml)
+- [百度文库下载 账号：axrukf 密码：7589](https://wk996.com/)
+- [LY解析](http://lykz.pw/vip/)
+- [够低调解析](http://www.gddyu.com/)
+- [全民解析](http://www.qmaile.com/)
+- [LY解析](http://lykz.pw/vip/)
