@@ -2,7 +2,11 @@
 - 1.磁盘分区：我的电脑->管理->磁盘管理，进行磁盘分区，200G以上，分出来的是黑色区域。
 - 2.[制作U盘启动项](https://blog.csdn.net/yaoyut/article/details/78003061)：下载[ubuntu-16.04.5-desktop-amd64.iso](https://blog.51cto.com/13669226/2145171)文件，利用[UltraISO](https://www.baidu.com/link?url=CgjOghuhQnzMD7pHeymjaGmvXzI4dW5OOgNebyTk-jXmOh4HJUDb6ohHt7HP4Q_pv7iqLD9mDv7IiTAho0anF_&wd=&eqid=ce6f84f400000b3d000000065d01febd)制作U盘启动盘，
 - 3.重启电脑，按F2(华硕电脑)进入Bios界面，选择启动项为u盘启动，然后按F10保存。
-- 4.开始安装，自定义磁盘分区，设置：/boot 8000M ,swap 2000M,/ 25000M,/home（最大）,其余所有的空间。
+- 4.开始安装，自定义磁盘分区，设置：/boot 8000M ,swap 2000M,/ 25000M,/home（最大）,其余所有的空间。下面的引导选项选择boot那个分区。
+- 5.重启之后在系统选择界面，按e，然后找到quit splash，改为，splash acpi_osi=Linux nomodeset,按F10保存
+- 6.如果成功进入系统，且显示正常，则在终端输入 sudo gedit /boot/grub/grub.cfg  ,找到刚刚那个位置，加上同样的代码即可。如果进入系统之后显示分辨率不正常，则在附加驱动中选择显卡驱动，然后重启即可。
+
+
 
 # Ubuntu系统常用命令
 ```shell
