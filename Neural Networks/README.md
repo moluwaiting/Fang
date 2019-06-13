@@ -1,4 +1,7 @@
 ## 神经网络
+# Anaconda
+- [Anaconda各版本下载地址](https://repo.continuum.io/archive/)
+
 ### za7za8
 - [Ubuntu中Object_detection的安装方法](https://blog.csdn.net/chenmaolin88/article/details/79371891)
 - Object_detection_tutorial.ipynb　
