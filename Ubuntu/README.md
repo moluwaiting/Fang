@@ -16,6 +16,10 @@ sudo apt-get install <软件名>
 切换bash:  chsh -s /bin/bash
 切换zsh:   chsh -s /bin/zsh
 
+#给文件夹创建快捷方式
+# ln -s [绝对路径] ~/桌面/快捷方式名称
+ln -s /data/long.com/ ~/桌面/long
+
 /.bashrc
 ```
 # 网址导航
