@@ -20,7 +20,9 @@ sudo apt-get install <软件名>
 # ln -s [绝对路径] ~/桌面/快捷方式名称
 ln -s /data/long.com/ ~/桌面/long
 
-/.bashrc
+#环境变量配置文件
+sudo gedit .bashrc
+source .bashrc
 ```
 # 网址导航
 - [Ubuntu完全教程，让你成为Ubuntu高手！](https://blog.csdn.net/qq_19998189/article/details/78566486)
