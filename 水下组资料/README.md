@@ -9,7 +9,7 @@ apt-get install subversion
 
 1.选择好自己的文件夹，将文件更新到本地： svn checkout path
 ```shell
-svn checkout svn://tech-gennesisi.club/underwater 
+svn checkout svn://tech-genesis.club/underwater 
 ```
 首次登录时需要输入密码。
 
