@@ -23,6 +23,11 @@ ln -s /data/long.com/ ~/桌面/long
 #环境变量配置文件
 sudo gedit .bashrc
 source .bashrc
+
+#开机出现 检测到系统程序出现问题
+sudo apt install gksu
+gksu gedit /etc/default/apport
+将 enabled = 1 修改为 enabled = 0
 ```
 # 网址导航
 - [Ubuntu完全教程，让你成为Ubuntu高手！](https://blog.csdn.net/qq_19998189/article/details/78566486)
