@@ -32,6 +32,7 @@ source .bashrc
 - [ubuntu下的PCL安装过程](https://blog.csdn.net/mush_room/article/details/78339578)
 - [Ubuntu16.04安装WPS并解决系统缺失字体问题](https://blog.csdn.net/u012177641/article/details/78547351)
 - [Ubuntu16.04.3 下安装Qt5.9.1 OpenCV3.2.0 (包括OpenCV_contrib)完美版](https://blog.csdn.net/Chang_Shuang/article/details/78239660)
+- [清华大学开源软件镜像](https://mirrors.tuna.tsinghua.edu.cn/)
 - [opencv/opencv_contrib-Github](https://github.com/opencv/opencv_contrib/releases)
 - [Ubuntu 解决E: 无法获得锁 /var/lib/dpkg/lock - open (11: 资源暂时不可用)](https://blog.csdn.net/demonliuhui/article/details/77488296)
 - [Ubuntu16.04中 VTK8.1.1 安装](https://blog.csdn.net/dell5200/article/details/81142951?utm_source=blogxgwz8)
