@@ -47,3 +47,4 @@ gksu gedit /etc/default/apport
 - [ubuntu16.04下安装CUDA，cuDNN及tensorflow-gpu版本过程](https://blog.csdn.net/u014595019/article/details/53732015)
 - [Ubuntu16.04安装显卡驱动、Anaconda、TensorFlow-GPU教程](https://www.jianshu.com/p/38f4a1944242)
 - [CMake实践](https://blog.csdn.net/xyz599/article/details/53606149)
+- [ubuntu实时显示网速cpu占用和内存占用率](https://www.cnblogs.com/hjw1/p/7901048.html)
