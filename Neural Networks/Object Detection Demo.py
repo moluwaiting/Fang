@@ -14,8 +14,8 @@ from PIL import Image
 import matplotlib
 
 # This is needed since the notebook is stored in the object_detection folder.
-sys.path.append("..")
-sys.path.append('/home/fang/soft/Anaconda3-5.2.0-Linux-x86_64.sh/envs/tensorflow/models/research/')
+#sys.path.append("..")
+sys.path.append('/home/fang/study/PycharmProject/models/research/')
 from object_detection.utils import ops as utils_ops
 
 if StrictVersion(tf.__version__) < StrictVersion('1.12.0'):
@@ -26,7 +26,7 @@ from object_detection.utils import label_map_util
 from object_detection.utils import visualization_utils as vis_util
 
 # What model to download.
-MODEL_NAME = 'ssd_mobilenet_v1_coco_2017_11_17'
+MODEL_NAME = '/home/fang/study/PycharmProject/models/research/ssd_mobilenet_v1_coco_2017_11_17'
 MODEL_FILE = MODEL_NAME + '.tar.gz'
 DOWNLOAD_BASE = 'https://github.com/xzlxiao/models/tree/master/research/object_detection/'
 
@@ -34,7 +34,7 @@ DOWNLOAD_BASE = 'https://github.com/xzlxiao/models/tree/master/research/object_d
 PATH_TO_FROZEN_GRAPH = MODEL_NAME + '/frozen_inference_graph.pb'
 
 # List of the strings that is used to add correct label for each box.
-PATH_TO_LABELS = os.path.join('/home/fang/soft/Anaconda3-5.2.0-Linux-x86_64.sh/envs/tensorflow/models/research/object_detection/data', 'mscoco_label_map.pbtxt')
+PATH_TO_LABELS = os.path.join('/home/fang/study/PycharmProject/models/research/object_detection/data', 'mscoco_label_map.pbtxt')
 #拼接路径
 #Download models
 opener = urllib.request.URLopener()
@@ -64,8 +64,8 @@ def load_image_into_numpy_array(image):
 # image1.jpg
 # image2.jpg
 # If you want to test the code with your images, just add path to the images to the TEST_IMAGE_PATHS.
-PATH_TO_TEST_IMAGES_DIR = '/home/fang/soft/Anaconda3-5.2.0-Linux-x86_64.sh/envs/tensorflow/models/research/object_detection/test_images'
-TEST_IMAGE_PATHS = [ os.path.join(PATH_TO_TEST_IMAGES_DIR, 'image{}.jpg'.format(i)) for i in range(0, 8) ]
+PATH_TO_TEST_IMAGES_DIR = '/home/fang/study/PycharmProject/models/research/object_detection/test_images'
+TEST_IMAGE_PATHS = [ os.path.join(PATH_TO_TEST_IMAGES_DIR, 'image{}.jpg'.format(i)) for i in range(1, 3) ]
 #上面一步设置显示的图的数量,range[1,8]
 # Size, in inches, of the output images.
 IMAGE_SIZE = (12, 8)
