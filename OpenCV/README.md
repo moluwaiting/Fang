@@ -1,3 +1,4 @@
 - [《OpenCV3编程入门》书本配套源代码](https://github.com/QianMo/OpenCV3-Intro-Book-Src)
 - [ubuntu16.04 安装opencv IPPICV 和 face_landmark_model.dat下载不下来的问题解决](https://blog.csdn.net/CSDN330/article/details/86747867)
-- [opencv下载地址](https://opencv.org/)
+- [openCV下载地址](https://opencv.org/)
+- [openCV_contrib下载地址](https://github.com/opencv/opencv_contrib)
