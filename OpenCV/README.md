@@ -6,6 +6,14 @@ cmake -D CMAKE_BUILD_TYPE=Release -D CMAKE_INSTALL_PREFIX=/usr/local -D WITH_OPE
 sudo make -j10
 
 sudo make install
+
+sudo sh -c 'echo "/usr/local/lib" > /etc/ld.so.conf.d/opencv.conf'
+
+sudo ldconfig  
+#如果这里出现了/sbin/ldconfig.real: /usr/local/cuda-9.0/targets/x86_64-linux/lib/libcudnn.so.7 不是符号连接，执行下述命令
+#sudo ln -sf /usr/local/cuda-8.0/targets/x86_64-linux/lib/libcudnn.so.4.0.7 /usr/local/cuda-8.0/targets/x86_64-linux/lib/libcudnn.so.4 
+
+#然后进行测试
 ```
 
 - [<<OpenCV3编程入门>>书本配套源代码](https://github.com/QianMo/OpenCV3-Intro-Book-Src)
