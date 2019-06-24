@@ -6,8 +6,6 @@
 - 5.重启之后在系统选择界面，按e，然后找到quit splash，改为，splash acpi_osi=Linux nomodeset,按F10保存
 - 6.如果成功进入系统，且显示正常，则在终端输入 sudo gedit /boot/grub/grub.cfg  ,找到刚刚那个位置，加上同样的代码即可。如果进入系统之后显示分辨率不正常，则在附加驱动中选择显卡驱动，然后重启即可。
 
-
-
 # Ubuntu系统常用命令
 ```shell
 sudo apt-get update
