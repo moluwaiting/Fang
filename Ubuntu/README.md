@@ -28,6 +28,15 @@ source .bashrc
 sudo apt install gksu
 gksu gedit /etc/default/apport
 将 enabled = 1 修改为 enabled = 0
+
+激活tensorflow环境之后，导入cv2相关的包时候，会出现ImportError: /opt/ros/kinetic/lib/python2.7/dist-packages/cv2.so: undefined symbol: PyCObject_Type
+这是因为安装了ROS，受到了ROS的影响，可以才去的解决办法有：
+source activate tensorflow
+python3  #这时候进入了python的环境，使用python ***.py就无效了
+import sys
+sys.path.remove('/opt/ros/kinetic/lib/python2.7/dist-packages')  #把ROS写入path中的路径给清除
+import cv2  #这时候正常导入cv2库
+
 ```
 # 网址导航
 - [Ubuntu完全教程，让你成为Ubuntu高手！](https://blog.csdn.net/qq_19998189/article/details/78566486)
