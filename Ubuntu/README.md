@@ -43,6 +43,7 @@ gksu gedit /etc/default/apport
 - [Ubuntu16.04中 VTK8.1.1 安装](https://blog.csdn.net/dell5200/article/details/81142951?utm_source=blogxgwz8)
 - [Ubuntu WallpapersCraft](https://wallpaperscraft.com/tag/ubuntu/1920x1080)
 - [ubuntu下网易云音乐无法打开](https://blog.csdn.net/Handoking/article/details/81026651)
+- [ubuntu16.04网易云音乐下载](https://github.com/ljb233/netease-cloud-music_ubuntu)
 - [更新linux时候提示无法“由于没有公钥，无法验证下列签名 ”的解决方案](https://blog.csdn.net/loovejava/article/details/21837935)
 - [ubuntu16.04下安装CUDA，cuDNN及tensorflow-gpu版本过程](https://blog.csdn.net/u014595019/article/details/53732015)
 - [Ubuntu16.04安装显卡驱动、Anaconda、TensorFlow-GPU教程](https://www.jianshu.com/p/38f4a1944242)
