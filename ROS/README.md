@@ -7,6 +7,7 @@ env | grep ros   #查看ROS相关的环境变量
 ```
 
 # ROS学习笔记
+---
 - 基本工作空间的创建
 ```shell
 1.创建工作空间
@@ -36,6 +37,7 @@ catkin_create_pkg test std_msgs rospy roscpp
 cd ~/catkin_ws
 catkin_make
 ```
+---
 - ROS通信编程 1
   - 在src中创建好功能包之后，将代码建立到功能包的src文件夹中；
   - 然后开始编译自己的C++代码（python为脚本语言，不需要编译），打开CMakeLists.txt
@@ -46,11 +48,11 @@ catkin_make
   add_executable(listener src/listener.cpp)
   target_link_libraries(listener ${catkin_LIBRARIES})
   ```
-  - 然后在工作空间中执行,carkin_make
+  - 然后在工作空间中执行,catkin_make
   ```shell
   roscore
   rosrun test talker
   rosrun test listener
   ```
-
+---
 
