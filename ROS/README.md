@@ -55,4 +55,6 @@ catkin_make
   rosrun test listener
   ```
 ---
+- ROS通信编程 2 （[用Python实现上述功能](https://www.cnblogs.com/sea-stream/p/10246046.html)）
+  - 
 
