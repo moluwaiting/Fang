@@ -5,6 +5,7 @@
 - [ROS学习笔记——简单的消息发布器和订阅器 (Python版)](https://blog.csdn.net/florida_tang/article/details/79601168)
 - [Ros与Tensorflow的整合](https://blog.csdn.net/xuanlvxin/article/details/80325736)
 - [ROS_Tensorflow_Github](https://github.com/cong/ros_tensorflow)
+- [维航机器人ROS教程](http://www.wh-robot.com/whb/?page_id=70)
 
 # ROS命令
 ```shell
