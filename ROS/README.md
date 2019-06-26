@@ -3,6 +3,8 @@
 - [古月居主页](http://www.guyuehome.com/)
 - [基于ROS应用Tensorflow实现物体识别](https://blog.csdn.net/qq_37464350/article/details/81009695)
 - [ROS学习笔记——简单的消息发布器和订阅器 (Python版)](https://blog.csdn.net/florida_tang/article/details/79601168)
+- [Ros与Tensorflow的整合](https://blog.csdn.net/xuanlvxin/article/details/80325736)
+- [ROS_Tensorflow_Github](https://github.com/cong/ros_tensorflow)
 
 # ROS命令
 ```shell
