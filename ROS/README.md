@@ -1,5 +1,8 @@
 # 网址导航
 - [ROS中文官网](http://wiki.ros.org/cn)
+- [古月居主页](http://www.guyuehome.com/)
+- [基于ROS应用Tensorflow实现物体识别](https://blog.csdn.net/qq_37464350/article/details/81009695)
+- [ROS学习笔记——简单的消息发布器和订阅器 (Python版)](https://blog.csdn.net/florida_tang/article/details/79601168)
 
 # ROS命令
 ```shell
