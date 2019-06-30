@@ -10,3 +10,4 @@
 - [够低调解析](http://www.gddyu.com/)
 - [全民解析](http://www.qmaile.com/)
 - [LY解析](http://lykz.pw/vip/)
+- [快速将整篇文档进行中英互译（史上最全总结）](https://www.sohu.com/a/232655409_419916)
