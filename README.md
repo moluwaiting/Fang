@@ -19,7 +19,8 @@
 ------------------------
 ### markdown使用教程
 -------------------------
-
+- [Cmd Markdown 编辑阅读器](https://www.zybuluo.com/mdeditor)
+- [Cmd Markdown 简明语法手册](https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown)
 
 ### landslide使用教程
 -------------------------
