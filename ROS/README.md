@@ -12,6 +12,35 @@
 env | grep ros   #查看ROS相关的环境变量
 ```
 
+# ROS中的分布式通信
+---
+```shell
+ifconfig 查看各个主机IP地址
+sudo gedit /etc/hosts 将对方的IP添加到hosts文件中，修改完的hosts文件如下所示；
+```
+
+
+```seq
+127.0.0.1	localhost
+127.0.1.1	fang-TUF-GAMING-FX504GE-FX80GE
+
+127.0.0.1 	rasberrypi
+
+# The following lines are desirable for IPv6 capable hosts
+::1     ip6-localhost ip6-loopback
+fe00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+192.30.253.113 github.com
+151.101.25.194 github.global.ssl.fastly.net
+192.30.253.121 codeload.github.com
+```
+
+```shell
+ping rasberrypi  所有主机的hosts文件都修改之后，通过ping命令来测试是否连得上
+```
+
 # ROS学习笔记
 ---
 - 基本工作空间的创建
