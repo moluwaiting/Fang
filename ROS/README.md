@@ -94,3 +94,12 @@ catkin_make
   ```
  - ROS通信编程 2 （[用Python实现上述功能](https://www.cnblogs.com/sea-stream/p/10246046.html)）
  ---
+ 
+ 
+ # ROS小知识点
+---
+- 运行usb_cam节点的时候，可以在launch文件中修改需要读取的摄像头端口号/dev/video1
+- 运行 rosrun image_view video_recorder image:=/usb_cam/image_raw 可以保存摄像头录制的视频
+ 
+ 
+ 
