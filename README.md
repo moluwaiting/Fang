@@ -1,6 +1,7 @@
 # Fang
 存放所有的数据
 ## 网址导航
+- [Github中文帮助文档](https://help.github.com/cn)
 - [百度](https://www.baidu.com/)
 - [必应](https://cn.bing.com/) 
 - [谷歌](https://www.google.com) 
