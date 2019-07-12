@@ -20,3 +20,4 @@ sudo ldconfig
 - [ubuntu16.04 安装opencv IPPICV 和 face_landmark_model.dat下载不下来的问题解决](https://blog.csdn.net/CSDN330/article/details/86747867)
 - [openCV下载地址](https://opencv.org/)
 - [openCV_contrib下载地址](https://github.com/opencv/opencv_contrib)
+- [Matlab双目相机标定](https://jingyan.baidu.com/article/22a299b5e6da909e18376a75.html)
