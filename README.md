@@ -23,6 +23,7 @@
 -------------------------
 - [Cmd Markdown 编辑阅读器](https://www.zybuluo.com/mdeditor)
 - [Cmd Markdown 简明语法手册](https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown)
+- [史上最完美的 Typora 教程](https://blog.csdn.net/cris_zz/article/details/82919401)
 
 ### landslide使用教程
 -------------------------
