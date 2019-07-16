@@ -41,8 +41,12 @@ ff02::2 ip6-allrouters
 ping rasberrypi  所有主机的hosts文件都修改之后，通过ping命令来测试是否连得上
 export ROS_MASTER_URI=http://fang-TUF-GAMING-FX504GE-FX80GE:11311/  在树莓派的.bashrc文件中添加这一行，设置主ROS_MASTER_URI,因为只有一个ROS_MASTER
 ```
-
-
+# ROS通信编程
+-----
+## ROS话题编程
+```shell
+catkin_create_pkg fang std_msgs roscpp rospy  在src文件夹下创建功能包
+```
 
 # ROS学习笔记
 ---
