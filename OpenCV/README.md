@@ -21,4 +21,4 @@ sudo ldconfig
 - [openCV下载地址](https://opencv.org/)
 - [openCV_contrib下载地址](https://github.com/opencv/opencv_contrib)
 - [Matlab双目相机标定](https://jingyan.baidu.com/article/22a299b5e6da909e18376a75.html)
-- [python-opencv暗通道去雾算法]https://www.cnblogs.com/echoboy/p/10924868.html)
+- [python-opencv暗通道去雾算法](https://www.cnblogs.com/echoboy/p/10924868.html)
