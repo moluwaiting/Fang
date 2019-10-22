@@ -21,4 +21,13 @@
 ![7](https://github.com/moluwaiting/Fang/blob/master/ANSYS/7.PNG)
 设置完毕之后点击Generate Mesh,等待网格划分完毕。
 ![8](https://github.com/moluwaiting/Fang/blob/master/ANSYS/8.PNG)
-点击select mode，选择Box select(框选模式)，
+点击select mode，选择Box select(框选模式)，把机器人框选出来（框选出来的机器人为绿色，一定要保证全部框选出来，且不能框选到其他物体），然后右键机器人，选择create named slection（给机器人起名字，随意起，英文即可）。
+然后再点击select mode，选择single select(点选模式)，
+点击流域中的流场入口那一面，右键，设定名字为inlet,
+点击流域中的流场出口那一面，右键，设定名字为outlet,
+剩余的为壁面，一起选中之后，右键，设定名字为wall,
+设置完毕之后，这里会出现设置的名字，然后退出界面即可。
+
+4.求解器设置：
+再主界面上，右键mesh，点击update，等待更新完毕（geometry以及mesh都是 √ 状态）。
+双击setup，
